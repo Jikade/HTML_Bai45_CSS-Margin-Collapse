@@ -1,0 +1,14 @@
+.box_parent {
+  background-color: aqua;
+  height: 190px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 200px;
+}
+
+.box_child {
+  background-color: brown;
+  width: 190px;
+  color: yellow;
+  margin-top: 100px;
+}
